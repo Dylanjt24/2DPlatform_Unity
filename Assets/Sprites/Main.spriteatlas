@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Main
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 22b6960c693a1b84e8f7a64abdfad9ca, type: 3}
+    - {fileID: 2800000, guid: ea1ef777a6804c84ba89cf80885e4d73, type: 3}
+    - {fileID: 2800000, guid: 50d63b962b4f9ae439d6b1a1ef625743, type: 3}
+    - {fileID: 2800000, guid: 95bf1e637bc500c418a03f1b909ce462, type: 3}
+    - {fileID: 2800000, guid: e752e78dad195fd4483b33a77d633a35, type: 3}
+    - {fileID: 2800000, guid: 36f876f92126ac644997a596e4560a09, type: 3}
+    - {fileID: 2800000, guid: df208149cd48cb84182b28a65e496a27, type: 3}
+    - {fileID: 2800000, guid: c969cd789d480994abbd6d0d15729a96, type: 3}
+    - {fileID: 2800000, guid: 05a2850972a59344ab18aa9e34ca4d55, type: 3}
+    - {fileID: 2800000, guid: 6ee666e7c1687954097e43660c643c4d, type: 3}
+    - {fileID: 2800000, guid: 4063cb1b81853b4458f5943a98df3e67, type: 3}
+    - {fileID: 2800000, guid: 3c9023cbc79812545b4ad96d762e01dc, type: 3}
+    - {fileID: 2800000, guid: 45daa34f00f417d4a888ddc830f12fd9, type: 3}
+    - {fileID: 2800000, guid: 45eb3bc00ef38ed41acc10e9bfa2d242, type: 3}
+    - {fileID: 2800000, guid: 4db1ecc4f15a9a243b5262b2ab750bdd, type: 3}
+    - {fileID: 2800000, guid: 8e1bf23a2c6c32e40ade9480b10039af, type: 3}
+    - {fileID: 2800000, guid: 6eed6f03fb1606e49a8b3dc1f1b0f7fd, type: 3}
+    - {fileID: 2800000, guid: e755962fb1526db46a3bd825f1a55b24, type: 3}
+    - {fileID: 2800000, guid: 9ab35c15e3195774cace2c8414868563, type: 3}
+    - {fileID: 2800000, guid: 9188274f82791a94680773f71d95a241, type: 3}
+    totalSpriteSurfaceArea: 312976
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 45eb3bc00ef38ed41acc10e9bfa2d242, type: 3}
+  - {fileID: 21300000, guid: 6eed6f03fb1606e49a8b3dc1f1b0f7fd, type: 3}
+  - {fileID: 21300000, guid: 95bf1e637bc500c418a03f1b909ce462, type: 3}
+  - {fileID: 21300000, guid: 4db1ecc4f15a9a243b5262b2ab750bdd, type: 3}
+  - {fileID: 21300000, guid: 9ab35c15e3195774cace2c8414868563, type: 3}
+  - {fileID: 21300000, guid: 50d63b962b4f9ae439d6b1a1ef625743, type: 3}
+  - {fileID: 21300000, guid: ea1ef777a6804c84ba89cf80885e4d73, type: 3}
+  - {fileID: 21300000, guid: 6ee666e7c1687954097e43660c643c4d, type: 3}
+  - {fileID: 21300000, guid: c969cd789d480994abbd6d0d15729a96, type: 3}
+  - {fileID: 21300000, guid: 05a2850972a59344ab18aa9e34ca4d55, type: 3}
+  - {fileID: 21300000, guid: df208149cd48cb84182b28a65e496a27, type: 3}
+  - {fileID: 21300000, guid: 36f876f92126ac644997a596e4560a09, type: 3}
+  - {fileID: 21300000, guid: 8e1bf23a2c6c32e40ade9480b10039af, type: 3}
+  - {fileID: 21300000, guid: 4063cb1b81853b4458f5943a98df3e67, type: 3}
+  - {fileID: 21300000, guid: 3c9023cbc79812545b4ad96d762e01dc, type: 3}
+  - {fileID: 21300000, guid: 22b6960c693a1b84e8f7a64abdfad9ca, type: 3}
+  - {fileID: 21300000, guid: e752e78dad195fd4483b33a77d633a35, type: 3}
+  - {fileID: 21300000, guid: e755962fb1526db46a3bd825f1a55b24, type: 3}
+  - {fileID: 21300000, guid: 45daa34f00f417d4a888ddc830f12fd9, type: 3}
+  - {fileID: 21300000, guid: 9188274f82791a94680773f71d95a241, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite_135
+  - sprite_138
+  - sprite_097
+  - sprite_136
+  - sprite_140
+  - sprite_057
+  - sprite_014
+  - sprite_131
+  - sprite_119
+  - sprite_120
+  - sprite_118
+  - sprite_099
+  - sprite_137
+  - sprite_132
+  - sprite_133
+  - enemyFloating_1
+  - sprite_098
+  - sprite_139
+  - sprite_134
+  - sprite_193
+  m_Tag: Main
+  m_IsVariant: 0
